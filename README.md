@@ -35,7 +35,7 @@
     <br><br>
     <img src="https://img.shields.io/badge/Php-FF6D37?style=for-the-badge&logo=php&logoColor=white">
     <br><br>
-    <img src="https://img.shields.io/badge/git-223ED8B00.svg?style=for-the-badge&lt&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&lt&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <br><br>
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
