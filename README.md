@@ -10,7 +10,10 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
     </a>
     <br><br>
-    <Strong>📧Email📧</Strong><br>dmlfks1230@naver.com<br>
+    <Strong>📧Email📧</Strong>
+    <br>
+    <a href="mailto:"dmlfks1230@naver.com">dmlfks1230@naver.com</a>
+    <br>
 </p>
 
 <br>
