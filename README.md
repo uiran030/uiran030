@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=200&section=header&text=uiran030&fontSize=60&fontAlign=80&fontAlignY=40)
 
-<br>
+<!-- <br> -->
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br>
@@ -11,7 +11,7 @@
     <Strong>📧Email📧</Strong><br>dmlfks1230@naver.com<br>
 </p>
 
-<br>
+<!-- <br> -->
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
