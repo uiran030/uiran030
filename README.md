@@ -11,7 +11,7 @@
     <Strong>📧Email📧</Strong><br>dmlfks1230@naver.com<br>
 </p>
 
-<br><br>
+<br>
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
@@ -36,5 +36,3 @@
     <img src="https://img.shields.io/badge/Postman-2310332?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white">
 </p>
-
-<br>
