@@ -37,4 +37,4 @@
     <img src="https://img.shields.io/badge/PuTTY-FF6C37?style=for-the-badge&logo=putty&logoColor=white">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiran030)](https://github.com/uiran030/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uiran030&show_icons=true&bg_color=00000000)
