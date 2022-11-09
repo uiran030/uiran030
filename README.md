@@ -6,7 +6,7 @@
 
 <p align="center">
     <Strong>☁️Portfolio List☁️</Strong><br><br>
-    <a href="https://uirans.notion.site/Study-Hard-05c234de8c56416aa15e7941c7471dbd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <a href="https://uirans.notion.site/Study-Hard-05c234de8c56416aa15e7941c7471dbd" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <br><br>
 <Strong>📧Email📧</Strong><br>dmlfks1230@naver.com<br>
 
