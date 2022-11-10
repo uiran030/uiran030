@@ -12,7 +12,7 @@
     <br><br>
     <Strong>📧Email📧</Strong>
     <br>
-    <p>dmlfks1230@naver.com</p>
+    <p align="center">dmlfks1230@naver.com</p>
     <br>
 </p>
 
