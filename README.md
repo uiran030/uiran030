@@ -12,7 +12,7 @@
     <br><br>
     <Strong>📧Email📧</Strong>
     <br>
-    <a href="mailto:"dmlfks1230@naver.com" color="inherit">dmlfks1230@naver.com</a>
+    <p>dmlfks1230@naver.com</p>
     <br>
 </p>
 
