@@ -30,6 +30,7 @@
     <img src="https://img.shields.io/badge/reactnative-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <br><br>
     <img src="https://img.shields.io/badge/Php-FF6D37?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <br><br>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
