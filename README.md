@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>💻Tech Stack💻</Strong><br>
 </p>
 <p align="center" display="inline-block">    
     <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
