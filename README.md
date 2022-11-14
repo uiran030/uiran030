@@ -26,6 +26,7 @@
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/jquery-%230762AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+    <br>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/reactnative-%23121011.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -37,6 +38,7 @@
     <img src="https://img.shields.io/badge/Php-FF6D37?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon DynamoDB-4053D6?style=for-the-badge&logo=Amazon DynamoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <br><br>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
